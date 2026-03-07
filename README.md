@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Pink Journal</title>
+<title>My Journal</title>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,600&family=Dancing+Script:wght@500;700&family=IM+Fell+English:ital@1&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -210,8 +210,8 @@ body::before{
 </head>
 <body>
 
-<h1 class="journal-title">&#x1F338; My Pink Journal</h1>
-<p class="journal-sub">~ a soft collection ~</p>
+<h1 class="journal-title">&#x1F338; My Journal</h1>
+<p class="journal-sub">~ A silent reflection ~</p>
 
 <div class="book-wrapper">
   <div class="page-card" id="pageCard"></div>
@@ -427,7 +427,7 @@ It’s a story about who I became while loving you.<br>
 `},
 
 // ── PAGE 2 ────────────────────────────────────────────
-{icon:'\u2601\uFE0F', title:'Chapter 2: The Way I Love Her', body:`
+{icon:'\u2601\uFE0F', title:'Chapter 2: The Way I Love you', body:`
 <p>
 Loving you never felt like a choice, though I suppose it was. It was more like something my heart had quietly decided long before I could put it into words.<br>
 Even in moments when I tried to live life without you, when I dated someone else or told myself I was moving forward, my heart kept returning to you.<br>
@@ -1399,8 +1399,8 @@ function buildCover(){
 function buildBack(){
   return '<div class="back-stitch"></div>'
     +'<div class="back-cover-svg">'+FLORAL+'</div>'
-    +'<div class="back-quote">\u201CShe carried a whole universe within the pages of her heart \u2014 and every word was written in pink.\u201D</div>'
-    +'<div class="back-author">\u2014 written with love, for you</div>';
+    +'<div class="back-quote">\u201CA journal from Bab to: Babi\u2014 and a reflection of everything that happened.\u201D</div>'
+    +'<div class="back-author">\u2014 written with love, longing and choice, to you</div>';
 }
 
 function setCard(idx,noAnim){
