@@ -1389,10 +1389,10 @@ function buildCover(){
   return '<div class="cover-stitch"></div>'
     +'<div class="cover-svg">'+FLORAL+'</div>'
     +'<div class="cover-inner">'
-      +'<div class="cover-vintage">Vintage Style</div>'
-      +'<div class="cover-main-title">My Pink<br>Journal</div>'
+      +'<div class="cover-vintage">🌸🌸🌸🌸</div>'
+      +'<div class="cover-main-title">book from: bab<br>to: babi</div>'
       +'<div class="cover-lock">🔒</div>'
-      +'<div class="cover-sub">~ a soft collection ~</div>'
+      +'<div class="cover-sub">~ a silent reflection ~</div>'
     +'</div>';
 }
 
