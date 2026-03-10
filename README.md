@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Journal</title>
+<title>Bab's Journal</title>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,600&family=Dancing+Script:wght@500;700&family=IM+Fell+English:ital@1&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -210,7 +210,7 @@ body::before{
 </head>
 <body>
 
-<h1 class="journal-title">&#x1F338; My Journal</h1>
+<h1 class="journal-title">&#x1F338; Bab's Journal</h1>
 <p class="journal-sub">~ A silent reflection ~</p>
 
 <div class="book-wrapper">
